@@ -1,0 +1,19 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "Challenge kali ini adalah membuat aplikasi perpustakaan sederhana menggunakan **Express** and **Sequelize**. Baca tiap *specification* dengan baik, ikuti apa yang diminta.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "sequelize": "^5.16.0"
+  }
+}
